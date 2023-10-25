@@ -1,4 +1,4 @@
-# Usage
+# Todo App
 
 ## Used technologies
 
